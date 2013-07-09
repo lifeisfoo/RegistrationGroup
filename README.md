@@ -1,10 +1,7 @@
-# VanillaStarter plugin for Vanilla Forums
-Fork this repository and start writing your own plugin. Batteries included.
+# RegistrationGroup plugin for Vanilla Forums
+Allow users to select a group at registration.
 
-## Forking
-Feel free to fork and add additional example code and documentation.
-
-Requires Vanilla >= 2.0.18.4
+Requires Memberships plugin >= 0.1
 
 
 ##Author and License
